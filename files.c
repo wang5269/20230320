@@ -3,5 +3,6 @@ int main()
 {
 	printf("asdfgjhkh"/n);
 	printf("963258"/n);
+	printf("895");
 }
 
